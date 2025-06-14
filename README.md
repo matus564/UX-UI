@@ -9,7 +9,7 @@ I’m passionate about clean design, functionality, and well-crafted user interf
 1.
 - [🌐 Website Design in Figma]
   (https://www.figma.com/design/k05V8gLZvoeRR4GLAPUInT/MHD-remake?node-id=17-2&t=pA7lDvfCKxp6XrUD-1) 
-  A simple city transport website
+  A simple city transport website.
   Task is to reorganize and create clear structure representing all ticket types so users can easier orient in the page
 
 2.
