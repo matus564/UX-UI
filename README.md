@@ -14,7 +14,7 @@ I’m passionate about clean design, functionality, and well-crafted user interf
 
 2.
 - [📱 Mobile App Design in Figma]
-  ([https://www.figma.com/your-link-2](https://www.figma.com/design/vU6AdDUtwDb9kQ2z0JWLgU/Mnaucovic-camera-design?node-id=222-143&t=oMBMZUINk8GJov1R-1))  
+  (https://www.figma.com/design/vU6AdDUtwDb9kQ2z0JWLgU/Mnaucovic-camera-design?node-id=222-143&t=oMBMZUINk8GJov1R-1)  
   A mobile app interface emphasizing user accessibility and a modern, polished look.
 
 ## 🙋‍♂️ About Me
